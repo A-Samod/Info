@@ -18,7 +18,7 @@ https://simpleicons.org/
 [![Mail](https://img.shields.io/badge/Gmail-asamod999@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:asamod999@gmail.com)
 <br>
 <br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/ASamod_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FASamod_&screen_name=ASamod999)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ASamod_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FASamod_&screen_name=ASamod_)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/A-Samod) <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=A-Samod.visitor-badge)](https://github.com/A-Samod)--> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/A-Samod)
 <br>
